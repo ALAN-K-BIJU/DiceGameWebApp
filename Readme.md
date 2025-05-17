@@ -26,8 +26,8 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/ALAN-K-BIJU/DiceGameWebApp/blob/main/screenshots/player1.png" alt="Player 1 Screen" width="300" height="200"/>
-  <img src="https://github.com/ALAN-K-BIJU/DiceGameWebApp/blob/main/screenshots/player2.png" alt="Player 2 Screen" width="300" height="200"/>
+  <img src="https://github.com/ALAN-K-BIJU/DiceGameWebApp/blob/main/screenshots/player1.jpg" alt="Player 1 Screen" width="300" height="200"/>
+  <img src="https://github.com/ALAN-K-BIJU/DiceGameWebApp/blob/main/screenshots/player2.jpg" alt="Player 2 Screen" width="300" height="200"/>
 </p>
 
 ---
